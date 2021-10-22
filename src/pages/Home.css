@@ -1,0 +1,27 @@
+.window {
+    width: 80%;
+    height: 90%;
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    transform: translate(10%, 10%);
+    border-radius: 2rem; 
+    
+    margin: 0;
+    padding: 0;
+    color: #000;
+    background: #fff;
+    border: none;
+    overflow: hidden;
+}
+
+/* position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    perspective: 1px;
+    transform-origin: center center;
+    width: 128rem;
+    height: 80rem;
+    overflow: hidden; */
